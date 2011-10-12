@@ -11,6 +11,9 @@ gem 'sqlite3'
 # Better console
 gem 'pry'
 
+# Fake data
+gem 'faker'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
